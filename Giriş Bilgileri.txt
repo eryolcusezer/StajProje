@@ -1,0 +1,2 @@
+e-posta adresi = admin@gmail.com
+parola = Duzce81
